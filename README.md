@@ -13,7 +13,7 @@ npx serve .
 ## Render Static Site Settings
 
 - Type: Static Site
-- Build command: leave blank
+- Build command: `true`
 - Publish directory: `.`
 - Custom domains: `groomingbymahlorie.com`, `www.groomingbymahlorie.com`
 

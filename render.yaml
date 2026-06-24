@@ -1,8 +1,9 @@
 services:
-  - type: static_site
+  - type: web
     name: groomingbymahlorie
-    buildCommand: ""
-    staticPublishPath: .
+    runtime: static
+    buildCommand: "true"
+    staticPublishPath: ./
     domains:
       - groomingbymahlorie.com
       - www.groomingbymahlorie.com
