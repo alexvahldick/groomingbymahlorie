@@ -26,11 +26,30 @@ npx serve .
 
 Replace these placeholders before launch:
 
-- Phone number
-- Booking link or email
-- Service area
 - Pricing/menu details
 - Social profile links, if desired
+
+## Photos
+
+Put optimized, website-ready images in:
+
+- `assets/photos/hero/` for future hero image options.
+- `assets/photos/grooms/` for the completed grooms gallery.
+
+Keep full-resolution originals outside the repo, then export edited web copies into these folders.
+
+## Contact Form
+
+This is a static Render site, so a real form needs a form backend. Good options:
+
+- Formspree: easiest for a small static site; create a form endpoint, then set the HTML form `action` to that endpoint.
+- A small Render web service: more control, but more code and maintenance.
+
+For now, the site uses call/text and email links.
+
+## Email Forwarding
+
+Namecheap can forward `hello@groomingbymahlorie.com` to `mahlorie.vahldick@icloud.com` if the domain uses Namecheap DNS. This creates a receiving alias only; it does not let Mahlorie send outbound mail as `hello@groomingbymahlorie.com`.
 
 ## DNS
 
