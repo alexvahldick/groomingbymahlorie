@@ -15,7 +15,7 @@ npx serve .
 - Type: Static Site
 - Build command: `true`
 - Publish directory: `.`
-- Custom domains: `groomingbymahlorie.com`, `www.groomingbymahlorie.com`
+- Custom domain: `groomingbymahlorie.com`
 
 ## Launch Checklist
 

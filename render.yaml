@@ -6,4 +6,3 @@ services:
     staticPublishPath: ./
     domains:
       - groomingbymahlorie.com
-      - www.groomingbymahlorie.com
