@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Bo inspired dog grooming mark</title>
+  <desc id="desc">A black doodle-style dog head with tan ears and a small white beard.</desc>
+  <circle cx="48" cy="48" r="45" fill="#fbf7f0" stroke="#27312d" stroke-width="4"/>
+  <path d="M25 40c-8 6-10 18-4 26 4 6 12 7 18 1 5-5 6-17 1-25-4-7-10-8-15-2Z" fill="#1f2523"/>
+  <path d="M71 40c8 6 10 18 4 26-4 6-12 7-18 1-5-5-6-17-1-25 4-7 10-8 15-2Z" fill="#1f2523"/>
+  <path d="M25 57c-2 8 2 15 9 15 7 0 11-7 9-15-6 4-12 4-18 0Z" fill="#c98558"/>
+  <path d="M71 57c2 8-2 15-9 15-7 0-11-7-9-15 6 4 12 4 18 0Z" fill="#c98558"/>
+  <path d="M31 26c1-9 8-15 17-15s16 6 17 15c8 4 13 12 13 22 0 17-13 29-30 29S18 65 18 48c0-10 5-18 13-22Z" fill="#111817"/>
+  <path d="M28 35c-5 2-7 7-7 13M38 18c-4 2-7 5-8 10M58 18c4 2 7 5 8 10M75 48c0-6-2-10-7-13" fill="none" stroke="#fbf7f0" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="36" cy="45" r="4" fill="#fbf7f0"/>
+  <circle cx="60" cy="45" r="4" fill="#fbf7f0"/>
+  <circle cx="37" cy="46" r="2" fill="#27312d"/>
+  <circle cx="59" cy="46" r="2" fill="#27312d"/>
+  <path d="M43 54c2-2 8-2 10 0 0 4-2 6-5 6s-5-2-5-6Z" fill="#27312d"/>
+  <path d="M37 62c5 5 17 5 22 0" fill="none" stroke="#fbf7f0" stroke-linecap="round" stroke-width="4"/>
+  <path d="M39 66c3 9 15 9 18 0-5 2-13 2-18 0Z" fill="#f0eee7"/>
+  <path d="M33 32c4-7 12-10 20-8M47 22c7-2 14 1 18 7M29 43c4-4 9-5 14-3M54 40c5-2 11-1 15 3" fill="none" stroke="#27312d" stroke-linecap="round" stroke-width="3" opacity=".55"/>
+</svg>

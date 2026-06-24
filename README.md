@@ -6,6 +6,7 @@ Static website draft for `groomingbymahlorie.com`.
 
 - Render: https://groomingbymahlorie.onrender.com/
 - Primary domain: https://groomingbymahlorie.com/
+- Gallery: https://groomingbymahlorie.com/gallery.html
 
 ## Local Preview
 
@@ -35,6 +36,7 @@ Put optimized, website-ready images in:
 
 - `assets/photos/hero/` for future hero image options.
 - `assets/photos/grooms/` for the completed grooms gallery.
+- `assets/bo-mark.svg` for the current Bo-inspired logo mark.
 
 Keep full-resolution originals outside the repo, then export edited web copies into these folders.
 
