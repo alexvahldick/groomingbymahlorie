@@ -1,19 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
   <title id="title">Bo inspired dog grooming mark</title>
-  <desc id="desc">A black doodle-style dog head with tan ears and a small white beard.</desc>
-  <circle cx="48" cy="48" r="45" fill="#fbf7f0" stroke="#27312d" stroke-width="4"/>
-  <path d="M25 40c-8 6-10 18-4 26 4 6 12 7 18 1 5-5 6-17 1-25-4-7-10-8-15-2Z" fill="#1f2523"/>
-  <path d="M71 40c8 6 10 18 4 26-4 6-12 7-18 1-5-5-6-17-1-25 4-7 10-8 15-2Z" fill="#1f2523"/>
-  <path d="M25 57c-2 8 2 15 9 15 7 0 11-7 9-15-6 4-12 4-18 0Z" fill="#c98558"/>
-  <path d="M71 57c2 8-2 15-9 15-7 0-11-7-9-15 6 4 12 4 18 0Z" fill="#c98558"/>
-  <path d="M31 26c1-9 8-15 17-15s16 6 17 15c8 4 13 12 13 22 0 17-13 29-30 29S18 65 18 48c0-10 5-18 13-22Z" fill="#111817"/>
-  <path d="M28 35c-5 2-7 7-7 13M38 18c-4 2-7 5-8 10M58 18c4 2 7 5 8 10M75 48c0-6-2-10-7-13" fill="none" stroke="#fbf7f0" stroke-linecap="round" stroke-width="4"/>
-  <circle cx="36" cy="45" r="4" fill="#fbf7f0"/>
-  <circle cx="60" cy="45" r="4" fill="#fbf7f0"/>
-  <circle cx="37" cy="46" r="2" fill="#27312d"/>
-  <circle cx="59" cy="46" r="2" fill="#27312d"/>
-  <path d="M43 54c2-2 8-2 10 0 0 4-2 6-5 6s-5-2-5-6Z" fill="#27312d"/>
-  <path d="M37 62c5 5 17 5 22 0" fill="none" stroke="#fbf7f0" stroke-linecap="round" stroke-width="4"/>
-  <path d="M39 66c3 9 15 9 18 0-5 2-13 2-18 0Z" fill="#f0eee7"/>
-  <path d="M33 32c4-7 12-10 20-8M47 22c7-2 14 1 18 7M29 43c4-4 9-5 14-3M54 40c5-2 11-1 15 3" fill="none" stroke="#27312d" stroke-linecap="round" stroke-width="3" opacity=".55"/>
+  <desc id="desc">A black doodle-style dog head with a long white beard and tan ear accents.</desc>
+  <circle cx="48" cy="48" r="44" fill="#f8f2e8" stroke="#27312d" stroke-width="4"/>
+  <path d="M24 42c-9 5-11 17-6 26 4 7 12 8 18 2 5-6 5-18 0-26-4-5-8-6-12-2Z" fill="#151b19"/>
+  <path d="M72 42c9 5 11 17 6 26-4 7-12 8-18 2-5-6-5-18 0-26 4-5 8-6 12-2Z" fill="#151b19"/>
+  <path d="M25 58c-1 7 3 13 9 13 6 0 10-5 9-12-6 3-12 3-18-1Z" fill="#c7834d"/>
+  <path d="M71 58c1 7-3 13-9 13-6 0-10-5-9-12 6 3 12 3 18-1Z" fill="#c7834d"/>
+  <path d="M29 26c1-9 9-16 19-16s18 7 19 16c8 4 13 12 13 23 0 18-14 31-32 31S16 67 16 49c0-11 5-19 13-23Z" fill="#0f1514"/>
+  <path d="M30 34c-5 2-8 8-8 14M39 17c-5 2-8 6-10 11M57 17c5 2 8 6 10 11M74 48c0-6-3-12-8-14" fill="none" stroke="#fff8ec" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="36" cy="45" r="5" fill="#fff8ec"/>
+  <circle cx="60" cy="45" r="5" fill="#fff8ec"/>
+  <circle cx="37" cy="46" r="2.3" fill="#27312d"/>
+  <circle cx="59" cy="46" r="2.3" fill="#27312d"/>
+  <path d="M42 55c2-3 10-3 12 0 0 4-2 6-6 6s-6-2-6-6Z" fill="#27312d"/>
+  <path d="M36 63c6 5 18 5 24 0" fill="none" stroke="#fff8ec" stroke-linecap="round" stroke-width="4"/>
+  <path d="M38 64c4 17 16 17 20 0-6 4-14 4-20 0Z" fill="#efe9df"/>
+  <path d="M44 66c1 9 7 10 9 0" fill="none" stroke="#b9afa2" stroke-linecap="round" stroke-width="2"/>
+  <path d="M32 31c5-7 13-9 21-7M48 22c7-1 14 2 18 7M28 43c5-4 10-5 15-3M53 40c6-2 12-1 16 3" fill="none" stroke="#27312d" stroke-linecap="round" stroke-width="3" opacity=".5"/>
 </svg>

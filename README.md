@@ -37,6 +37,7 @@ Put optimized, website-ready images in:
 - `assets/photos/hero/` for future hero image options.
 - `assets/photos/grooms/` for the completed grooms gallery.
 - `assets/bo-mark.svg` for the current Bo-inspired logo mark.
+- `assets/bo-badge-logo.svg` for the fuller badge-style logo concept.
 
 Keep full-resolution originals outside the repo, then export edited web copies into these folders.
 

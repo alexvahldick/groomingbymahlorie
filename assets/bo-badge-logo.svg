@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-labelledby="title desc">
+  <title id="title">Grooming by Mahlorie logo</title>
+  <desc id="desc">A badge-style dog grooming logo featuring Bo, a black doodle with a long white beard and tan accents.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="6" flood-color="#000" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <rect width="720" height="520" rx="36" fill="#fbf7f0"/>
+  <g filter="url(#shadow)">
+    <path d="M138 260c0-113 91-204 204-204s204 91 204 204v40H138v-40Z" fill="#d0a85f" stroke="#27312d" stroke-width="14"/>
+    <path d="M162 260c0-99 81-180 180-180s180 81 180 180v26H162v-26Z" fill="none" stroke="#c98578" stroke-width="22"/>
+  </g>
+  <g transform="translate(248 76)">
+    <path d="M28 112c-32 18-38 62-18 92 15 23 45 24 67 1 18-20 18-65 0-91-14-20-33-22-49-2Z" fill="#101615"/>
+    <path d="M188 112c32 18 38 62 18 92-15 23-45 24-67 1-18-20-18-65 0-91 14-20 33-22 49-2Z" fill="#101615"/>
+    <path d="M27 163c-5 25 10 48 34 48 23 0 36-19 31-43-21 12-43 10-65-5Z" fill="#c7834d"/>
+    <path d="M189 163c5 25-10 48-34 48-23 0-36-19-31-43 21 12 43 10 65-5Z" fill="#c7834d"/>
+    <path d="M45 56c4-34 30-56 63-56s59 22 63 56c31 15 51 48 51 88 0 70-49 116-114 116S-6 214-6 144c0-40 20-73 51-88Z" fill="#0f1514"/>
+    <path d="M12 118c-18 34-4 81 30 90 28 8 45-20 36-62-20 9-43 1-66-28Z" fill="#c7834d"/>
+    <path d="M204 118c18 34 4 81-30 90-28 8-45-20-36-62 20 9 43 1 66-28Z" fill="#c7834d"/>
+    <path d="M28 136c12 18 25 25 41 22M188 136c-12 18-25 25-41 22" fill="none" stroke="#e0a66d" stroke-linecap="round" stroke-width="10" opacity=".9"/>
+    <path d="M48 86c-20 8-30 27-30 50M80 20C63 28 51 42 45 60M136 20c17 8 29 22 35 40M198 136c0-23-11-42-30-50" fill="none" stroke="#fff8ec" stroke-linecap="round" stroke-width="14"/>
+    <circle cx="68" cy="128" r="17" fill="#fff8ec"/>
+    <circle cx="148" cy="128" r="17" fill="#fff8ec"/>
+    <circle cx="72" cy="132" r="8" fill="#27312d"/>
+    <circle cx="144" cy="132" r="8" fill="#27312d"/>
+    <path d="M88 161c8-10 32-10 40 0 0 14-8 23-20 23s-20-9-20-23Z" fill="#27312d"/>
+    <path d="M70 192c21 20 55 20 76 0" fill="none" stroke="#fff8ec" stroke-linecap="round" stroke-width="13"/>
+    <path d="M69 190c9 28 18 58 39 68 21-10 30-40 39-68-23 18-55 18-78 0Z" fill="#efe9df"/>
+    <path d="M86 204c4 26 12 41 22 50M130 204c-4 26-12 41-22 50" fill="none" stroke="#b9afa2" stroke-linecap="round" stroke-width="6"/>
+  </g>
+  <g transform="translate(112 148)" stroke="#27312d" stroke-linecap="round" stroke-linejoin="round" stroke-width="13">
+    <path d="M0 114 86 22"/>
+    <path d="M86 114 0 22"/>
+    <circle cx="2" cy="116" r="18" fill="#fbf7f0"/>
+    <circle cx="88" cy="116" r="18" fill="#fbf7f0"/>
+    <path d="M43 68c10 12 21 13 34 4"/>
+  </g>
+  <path d="M64 308h592c25 0 45 20 45 45v34H19v-34c0-25 20-45 45-45Z" fill="#27312d"/>
+  <text x="360" y="381" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="86" fill="#fff" letter-spacing="2">GROOMING</text>
+  <rect x="185" y="410" width="350" height="68" rx="34" fill="#c98578" stroke="#27312d" stroke-width="10"/>
+  <text x="360" y="456" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="34" fill="#fff" letter-spacing="3">BY MAHLORIE</text>
+  <path d="M109 444h50M561 444h50" stroke="#d0a85f" stroke-linecap="round" stroke-width="12"/>
+</svg>
